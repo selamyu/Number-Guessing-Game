@@ -7,7 +7,7 @@
 1. The system generates a random number between 1 and 100.
 2. The user is prompted to guess the number.
 3. The game provides feedback if the guessed number is higher, lower, or correct.
-4. Limits the number of attempts per round (default: 5 attempts).
+4. Limits the number of attempts per round (default: 3 attempts).
 5. Multiple rounds of play (default: 3 rounds).
 6. Scoring system based on the number of attempts used to guess correctly.
 7. Displays the total score at the end of the game.
