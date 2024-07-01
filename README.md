@@ -1,5 +1,5 @@
 # Number-Guessing-Game
-Project Description
+**Project Description**
 "Guess The Number" is a fun and interactive Java console-based game where the user tries to guess a randomly generated number within a specified range. The game provides feedback on whether the guessed number is higher or lower than the target number and allows multiple rounds and attempts to enhance the gaming experience.
 
 **Features**
